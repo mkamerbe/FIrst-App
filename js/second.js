@@ -1,6 +1,6 @@
-var second= (function(module){
+var second = (function(module){
              module.doit = function(resultObject){
-             resultObject.prepend(Date() + <br/>);
-             }
+             resultObject.prepend(Date() + '<br/>');
+              };
              return module;
-             }(SILLY}}|| {}));
+             }(second|| {}));
