@@ -10,8 +10,8 @@
 
         <preference name="phonegap-version" value="3.5.0" />
 
-        <name>Martijn's App'</name>
-
+        <name>Martijn's App</name>
+	 <icon src="icon.png" />
         <description>
         An example for phonegap build docs. 
         </description>
